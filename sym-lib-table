@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri "E:/KiCad libraries/kicad_lib_tmk-master/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "E:/KiCad libraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+)
